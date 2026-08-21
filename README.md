@@ -35,10 +35,8 @@ Switches and their port numbers to what they are plugged into.
 <h2>Layer 2 6-Port 10-Gb Switch</h2>
 
   - Port 1 2.5-Gb: Layer 3 16-Port Gb Switch
-  - Port 2:
-  - Port 3:
-  - Port 4:
-  - Port 5:
-  - Port 6 2.5-Gb: Proxmox redundant connection
-  - Port 7 10-Gb: Proxmox Server
-  - Port 8 10-Gb: Main PC
+  - Port 2 2.5-Gb:
+  - Port 3 2.5-Gb:
+  - Port 4 2.5-Gb: Proxmox redundant connection (1-Gb Connection Server Nic)
+  - Port 5 10-Gb: Proxmox Server
+  - Port 6 10-Gb: Main PC
