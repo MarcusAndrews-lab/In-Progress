@@ -12,3 +12,6 @@ Delay 10000
 list disk
 Delay 1000
 ENTER
+
+
+//After selecting a disk use the clean command to reset the drive. 
